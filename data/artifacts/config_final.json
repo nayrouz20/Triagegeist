@@ -1,0 +1,33 @@
+{
+  "seed": 2025,
+  "n_folds": 5,
+  "use_groups": [
+    "struct"
+  ],
+  "final_text": "bcb",
+  "final_strategy": "balanced",
+  "lgb_final_params": {
+    "n_estimators": 600,
+    "learning_rate": 0.05,
+    "num_leaves": 63,
+    "colsample_bytree": 0.85,
+    "subsample": 0.85,
+    "subsample_freq": 1,
+    "reg_alpha": 0.1,
+    "reg_lambda": 0.1,
+    "min_child_samples": 30,
+    "n_jobs": -1,
+    "verbose": -1
+  },
+  "apply_override": true,
+  "qwk_oof": 0.999537367077637,
+  "recall_esi1": 0.9872749844816884,
+  "crit_miss_pct": 0.012004081387671808,
+  "quick_debug": false,
+  "n_features": 143,
+  "use_text_in_final": true,
+  "qwk_without_text": 0.9313292987289503,
+  "qwk_grouped_cv": 0.9947697015063863,
+  "qwk_text_lookup": 0.9932392877267976,
+  "use_ordinal_decoding": false
+}
