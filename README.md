@@ -142,9 +142,3 @@ The dataset exhibits characteristics suggesting synthetic data generation, parti
 The project also identifies limitations related to class imbalance, experimental focal loss implementation, clinical safeguard thresholds, and the interpretation of fairness indicators.
 
 The developed approach is an experimental decision-support framework and is not intended to replace professional clinical assessment.
-
-## Author
-
-**Nayrouz Weslati**
-
-Project: Triagegeist — AI in Emergency Triage
